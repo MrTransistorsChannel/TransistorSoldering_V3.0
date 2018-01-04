@@ -32,3 +32,7 @@
   - **scheme** - схемы подключения
   - **Readme_src** - это вам не надо - это картинки, вставленные в README.md
 
+<a id="Components"></a>
+## Материалы и компоненты
+  - [Arduino NANO](http://ali.pub/20o36t)
+
