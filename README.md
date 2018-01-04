@@ -3,8 +3,10 @@
 
 ![IMAGE](https://github.com/MrTransistorsChannel/TransistorSoldering_V3.0/raw/master/Readme_src/Station.JPG)
 # Оглавление
-  - ![Настройки в прошивке](#chapter-0)
-<a id="chapter-0"></a>
+
+  * [Настройки в прошивке](#Settings)
+  
+<a id="Settings"></a>
 ## Настройки в прошивке:
 
     #define MIN_PRESET    200// Минимальная устанавливаемая температура
